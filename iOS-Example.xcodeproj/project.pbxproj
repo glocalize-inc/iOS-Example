@@ -49,6 +49,7 @@
 		DE6D2B51288559E100A96C91 /* iOS-ExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-ExampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE6D2B55288559E100A96C91 /* iOS_ExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_ExampleUITests.swift; sourceTree = "<group>"; };
 		DE6D2B57288559E100A96C91 /* iOS_ExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_ExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DE6D2B6428855E6C00A96C91 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		DE6D2B28288559E000A96C91 = {
 			isa = PBXGroup;
 			children = (
+				DE6D2B6428855E6C00A96C91 /* README.md */,
 				DE6D2B33288559E000A96C91 /* iOS-Example */,
 				DE6D2B4A288559E100A96C91 /* iOS-ExampleTests */,
 				DE6D2B54288559E100A96C91 /* iOS-ExampleUITests */,
